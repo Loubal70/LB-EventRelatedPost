@@ -19,7 +19,7 @@ require 'plugin-update-checker-4.11/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 	'https://github.com/Loubal70/LB-EventRelatedPost/',
 	__FILE__,
-	'unique-plugin-or-theme-slug'
+	'LB-EventRelatedPost/event-related-post.php'
 );
 
 //Set the branch that contains the stable release.
