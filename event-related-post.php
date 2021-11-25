@@ -55,6 +55,7 @@ function EventRelatedPost($id = 0){
         ],
     ];
 
+    // Je récupère tous les posts (ici event) qui ont le même slug du post courant en supprimant (post__not_in) le courant dans la liste
     return new WP_Query($args);
 }
 
