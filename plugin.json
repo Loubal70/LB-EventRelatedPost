@@ -1,7 +1,7 @@
 {
 	"name" : "LB-EventRelatedPost",
 	"version" : "1.2.5",
-	"download_url" : "https://github.com/Loubal70/LB-EventRelatedPost",
+	"download_url" : "https://github.com/Loubal70/LB-EventRelatedPost/archive/refs/tags/v1.2.5.zip",
 	"sections" : {
 		"description" : "Automatic update plugin that allows you to create an article section related to the article being read."
 	}
