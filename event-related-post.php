@@ -17,7 +17,7 @@ Author URI: https://louis-boulanger.fr
 
 require 'plugin-update-checker-4.11/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://github.com/Loubal70/LB-EventRelatedPost/blob/main/plugin.json',
+	'https://github.com/Loubal70/LB-EventRelatedPost/',
 	__FILE__,
 	'LB-EventRelatedPost/event-related-post.php'
 );
