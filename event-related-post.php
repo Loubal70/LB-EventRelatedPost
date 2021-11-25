@@ -23,11 +23,7 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 );
 
 //Set the branch that contains the stable release.
-$myUpdateChecker->setBranch('stable-branch-name');
-
-//Optional: If you're using a private repository, specify the access token like this:
-$myUpdateChecker->setAuthentication('your-token-here');
-
+$myUpdateChecker->setBranch('main');
 
 // Fonction qui sert à voir les évènements qui ont la même catégorie
 function EventRelatedPost($id = 0){
