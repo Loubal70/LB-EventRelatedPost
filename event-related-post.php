@@ -2,14 +2,14 @@
 
 /**
  * @package LB-EventRelatedPost
- * @version 1.2.3
+ * @version 1.2.5
  */
 /*
 Plugin Name: LB-EventRelatedPost
 Plugin URI: https://localhost
 Description: Plugin de mise en relation d'articles
 Author: Louis
-Version: 1.2.3
+Version: 1.2.5
 Author URI: https://louis-boulanger.fr
 */
 
